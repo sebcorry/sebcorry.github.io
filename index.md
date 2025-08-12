@@ -13,3 +13,5 @@ I am interested in representation stability and its applications to algebra and 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/writing.md %}
+
+{% include_relative _includes/current_reading.md %}

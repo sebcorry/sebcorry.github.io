@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm an undergraduate at Grinnell College interested in mathematics and writing. My research and expository writing can be found here, as can my [CV]({{site.url}}/assets/files/CV.pdf).
+I'm an undergraduate at Grinnell College interested in mathematics and writing. My research and expository writing can be found here, as can my [CV]({{site.url}}/assets/files/CV.pdf) (last updated 2/3/26).
 
 ## Research Interests
 

@@ -1,3 +1,3 @@
 ## Upcoming Travel
 
-- Nebraska Conference for Undergraduate Wisdom in Mathematics, January 30th - February 1st in Lincoln, NE
+- CA+, March 28-29, 2026, Ames, IA

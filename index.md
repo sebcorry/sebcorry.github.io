@@ -10,9 +10,9 @@ I'm an undergraduate at Grinnell College interested in mathematics and writing. 
 
 I am interested in representation stability and its applications to algebraic geometry and combinatorics.
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/research.md %}
 
-{% include_relative _includes/travel.md %}
+<!-- {% include_relative _includes/travel.md %} -->
 
 {% include_relative _includes/writing.md %}
 

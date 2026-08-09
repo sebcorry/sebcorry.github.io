@@ -9,3 +9,23 @@ main:
     bibtex:
     image:
     notes: In-Preparation
+
+  - title: Combinatorial & Algebraic Invariants of q-simplicial Arrangements
+    authors: with Ryan Burke, Iz Chen, Noah Parker, and Saron Zhu
+    conference_short:
+    conference:
+    pdf: https://www-users.cse.umn.edu/~reiner/REU/REU2026notes/Problem1__qArrangements.pdf
+    code:
+    bibtex:
+    image:
+    notes: REU Report
+
+  - title: Cyclic Sieving, Plane Triangulations, and Tridiagonal Harmonics
+    authors: with Aylin Ambriz, Ryan Burke, Noah Parker, and Rosa Paten
+    conference_short:
+    conference:
+    pdf: https://www-users.cse.umn.edu/~reiner/REU/REU2026notes/Problem5__TriCat.pdf
+    code:
+    bibtex:
+    image:
+    notes: REU Report

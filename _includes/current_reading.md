@@ -1,5 +1,5 @@
 ## Current Reading
 
 - *The Rising Sea*, Ravi Vakil
-- *The Red Book of Varieties and Schemes*, David Mumford
-- *Zeno's Conscience*, Italo Svevo
+- *Algebraic Number Theory*, Jürgen Neukirch
+- *Algebraic Topology*, Tammo tom Dieck

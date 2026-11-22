@@ -1,3 +1,3 @@
 ## Upcoming Travel
 
-Nothing to see here...
+Joint Mathematics Meetings 2027, Chicago, IL
